@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.18.3
 
 LABEL maintainer="Giulio Calzolari <giuliocalzolari@users.noreply.github.com>" \
   org.label-schema.name="Squid" \
